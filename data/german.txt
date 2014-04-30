@@ -150,7 +150,6 @@ holz
 hose
 hotel
 huhn
-hundert
 hunger
 hut
 hütte
@@ -357,7 +356,6 @@ tag
 tante
 tasche
 tasse
-tausend
 taxi
 tee
 telefon
