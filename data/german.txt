@@ -1,3 +1,4 @@
+alpen
 alt
 amerika
 anruf
@@ -14,6 +15,7 @@ augen
 august
 ausweis
 auto
+autobahn
 bad
 bahn
 bahnhof
@@ -38,10 +40,12 @@ bleiben
 bluse
 boxer
 bremen
+brief
 brille
 bruder
 brust
 buch
+buchstabe
 bus
 busch
 cäsar
@@ -70,6 +74,7 @@ einladung
 eintrittskarte
 einwohner
 eis
+eisenbahn
 elbe
 emil
 ende
@@ -113,6 +118,7 @@ genau
 gesicht
 gitarre
 glas
+gletscher
 grün
 gustav
 gut
@@ -147,6 +153,7 @@ ida
 information
 insel
 internet
+italien
 januar
 juli
 julius
@@ -230,12 +237,14 @@ neumond
 norden
 nordpol
 nordsee
+norwegen
 november
 nummer
 ober
 oberförster
 obst
 oktober
+olaf
 oma
 onkel
 opa
@@ -292,9 +301,11 @@ schnee
 schnell
 schnitzel
 schrank
+schrift
 schuh
 schule
 schwarz
+schweden
 schwer
 schwester
 schön
@@ -320,7 +331,6 @@ sprache
 stadt
 star
 stark
-steak
 stehen
 stern
 stockwerk
