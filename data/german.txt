@@ -1,3 +1,5 @@
+abend
+afrika
 alpen
 alt
 amerika
@@ -40,6 +42,7 @@ bleiben
 bluse
 boxer
 bremen
+brett
 brief
 brille
 bruder
@@ -57,7 +60,6 @@ deutsch
 deutschland
 dezember
 dienstag
-diskette
 doktor
 donnerstag
 dora
@@ -82,6 +84,7 @@ england
 ente
 erde
 essen
+euro
 fahrkarte
 fahrrad
 februar
@@ -92,6 +95,7 @@ finger
 flughafen
 flugzeug
 flur
+flügel
 foto
 fotografie
 frage
@@ -142,6 +146,7 @@ hilfe
 himmel
 hoch
 hochwasser
+holz
 hose
 hotel
 huhn
@@ -191,6 +196,7 @@ laden
 lampe
 land
 landkarte
+landschaft
 lang
 lassen
 lautsprecher
@@ -206,25 +212,27 @@ machen
 mai
 mandarine
 mann
-mark
-markt
 marktplatz
 martha
 maschine
 matte
 maus
 meer
+milch
+mittag
 mitte
 mittwoch
 mond
 monitor
 montag
 moskau
+motor
 museum
 musik
 mutter
 möglich
 möwe
+mühle
 münchen
 müssen
 nachricht
@@ -301,6 +309,7 @@ schnee
 schnell
 schnitzel
 schrank
+schraube
 schrift
 schuh
 schule
@@ -310,6 +319,7 @@ schwer
 schwester
 schön
 see
+segelboot
 sehen
 september
 sicher
@@ -332,6 +342,7 @@ stadt
 star
 stark
 stehen
+stein
 stern
 stockwerk
 strand
@@ -397,6 +408,7 @@ wolke
 wollen
 wunsch
 wurst
+wörterbuch
 zebra
 zeiger
 zeit
