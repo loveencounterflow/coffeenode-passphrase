@@ -77,7 +77,6 @@ england
 ente
 erde
 essen
-etage
 fahrkarte
 fahrrad
 februar
@@ -114,7 +113,6 @@ genau
 gesicht
 gitarre
 glas
-groß
 grün
 gustav
 gut
@@ -131,7 +129,6 @@ heft
 heide
 heinrich
 heizung
-heißen
 hemd
 herbst
 herd
@@ -304,7 +301,6 @@ schön
 see
 sehen
 september
-sex
 sicher
 siegfried
 sms
@@ -327,6 +323,7 @@ stark
 steak
 stehen
 stern
+stockwerk
 strand
 streifen
 strom
@@ -372,7 +369,6 @@ weg
 wein
 weit
 weitblick
-weiß
 welle
 welt
 werbung
