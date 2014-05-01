@@ -1,6 +1,6 @@
 {
   "name": "coffeenode-passphrase",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Passphrase generator for NodeJS",
   "main": "lib/main.js",
   "scripts": {
