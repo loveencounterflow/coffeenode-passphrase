@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/loveencounterflow/coffeenode-passphrase",
   "dependencies": {
-    "coffee-script": "^1.7.1"
+    "coffee-script": "^1.7.1",
+    "glob": "^3.2.9",
+    "random-js": "^1.0.3"
   }
 }
