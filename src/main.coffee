@@ -31,7 +31,7 @@ words                     = []
   return ( digits[ @_get_random_integer 0, 9 ] for idx in [ 0 ... 3 ] ).join ''
 
 #-----------------------------------------------------------------------------------------------------------
-@get_passphrase = ( length = 5, separator = '-' ) ->
+@get_passphrase = ( length = 3, separator = '-' ) ->
   R               = []
   seen_words      = {}
   #.........................................................................................................
@@ -66,6 +66,7 @@ words                     = []
     raw_words = ( word.trim().toLowerCase() for word in raw_words )
     raw_words = ( word for word in raw_words when word[ 0 ] isnt '#' )
     raw_words = ( word for word in raw_words when word.length > 0 )
+    raw_words = ( word for word in raw_words when word.length <= 7 )
     seen_words[ word ] = 1 for word in raw_words
   #.........................................................................................................
   words.push word for word of seen_words
